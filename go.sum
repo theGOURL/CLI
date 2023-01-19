@@ -1,0 +1,8 @@
+github.com/theGOURL/OS_Analyzer v0.0.0-20230118230815-a1239662b9bd h1:Tvr5XWqtiuyKLWI+Vxd1k0MQ+EYPHzZCOmkn+oOpAqU=
+github.com/theGOURL/OS_Analyzer v0.0.0-20230118230815-a1239662b9bd/go.mod h1:H2ZKkiJlEJ2rU1lNvJe5b4EE1UnNNjDqiY3fp+QLFnc=
+github.com/theGOURL/URL v0.0.0-20230118225340-911f817298d5 h1:EM8keNRrbsrq3nZA7BD1sCQXyHKBB7aTpoMoso78cF8=
+github.com/theGOURL/URL v0.0.0-20230118225340-911f817298d5/go.mod h1:3L7q7ZTPr94XAvde9y3q8KXgMVa5Tmyxvu3SmGrGKs0=
+github.com/theGOURL/go_url v0.0.0-20230118223809-b388ce649c00 h1:aTT0ecxTtk8jogF7Z+5q4PwZYpomYJ7mJagCouTe8mw=
+github.com/theGOURL/go_url v0.0.0-20230118223809-b388ce649c00/go.mod h1:dXsLbMcWGMSgSrpQELATZM6kvqEX088ue4jl7nFeCJQ=
+github.com/theGOURL/system v0.0.0-20230118230546-65f7b1f03336 h1:trxi5E3wbqOwHnfBU07MQLGd0g9qwtqJfUguqsmb3W8=
+github.com/theGOURL/system v0.0.0-20230118230546-65f7b1f03336/go.mod h1:InaY3FmXLL/mYw+fo24Th5cD7viZCHz6ETKkp9DBCgM=
