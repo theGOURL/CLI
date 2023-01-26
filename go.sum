@@ -2,6 +2,8 @@ github.com/theGOURL/OS_Analyzer v0.0.0-20230118230815-a1239662b9bd h1:Tvr5XWqtiu
 github.com/theGOURL/OS_Analyzer v0.0.0-20230118230815-a1239662b9bd/go.mod h1:H2ZKkiJlEJ2rU1lNvJe5b4EE1UnNNjDqiY3fp+QLFnc=
 github.com/theGOURL/OS_Analyzer v0.0.0-20230119204813-6e70e594abf8 h1:VDyWafgWT0HewU6NWasUCVuk6hjkqSFCxkQ79fQ5/Cw=
 github.com/theGOURL/OS_Analyzer v0.0.0-20230119204813-6e70e594abf8/go.mod h1:Wt8qLr4rvIChurZo0UjhLvaobH/84gWZRX37OhzlAbs=
+github.com/theGOURL/OS_Analyzer v0.0.0-20230119211722-ab8c16a08d1a h1:uhLlzuLyc/B9Evi9ti7jlWn8shCr2K3w5nxbW1HcBvU=
+github.com/theGOURL/OS_Analyzer v0.0.0-20230119211722-ab8c16a08d1a/go.mod h1:Wt8qLr4rvIChurZo0UjhLvaobH/84gWZRX37OhzlAbs=
 github.com/theGOURL/URL v0.0.0-20230118225340-911f817298d5 h1:EM8keNRrbsrq3nZA7BD1sCQXyHKBB7aTpoMoso78cF8=
 github.com/theGOURL/URL v0.0.0-20230118225340-911f817298d5/go.mod h1:3L7q7ZTPr94XAvde9y3q8KXgMVa5Tmyxvu3SmGrGKs0=
 github.com/theGOURL/go_url v0.0.0-20230118223809-b388ce649c00 h1:aTT0ecxTtk8jogF7Z+5q4PwZYpomYJ7mJagCouTe8mw=
@@ -12,5 +14,7 @@ github.com/theGOURL/warning v0.0.0-20230118231034-e74eaf21594c h1:l1ht3A0sjPzVw5
 github.com/theGOURL/warning v0.0.0-20230118231034-e74eaf21594c/go.mod h1:AqOhJSjnquJ0DS4N8pd5eJdjDE11aYVZylicmmJcJt8=
 github.com/theGOURL/warning v0.0.0-20230123222844-3517fca61ef2 h1:is1qVsky2OLA9RW1J2mj43svmG2B0+6KoejHUQIu5ho=
 github.com/theGOURL/warning v0.0.0-20230123222844-3517fca61ef2/go.mod h1:AqOhJSjnquJ0DS4N8pd5eJdjDE11aYVZylicmmJcJt8=
+github.com/theGOURL/warning v0.0.0-20230125180742-a84f28cd4c83 h1:0ECR0Ypxqtiw5g1rtPtcgCKfzeJa3INXDgKvh0t/1Jg=
+github.com/theGOURL/warning v0.0.0-20230125180742-a84f28cd4c83/go.mod h1:AqOhJSjnquJ0DS4N8pd5eJdjDE11aYVZylicmmJcJt8=
 github.com/theGOURL/web v0.0.0-20230118231644-27d67cc4bb7d h1:38lfyih2/A0f62poosOsFFs+z3XjZ6GydTg9lVpRgrw=
 github.com/theGOURL/web v0.0.0-20230118231644-27d67cc4bb7d/go.mod h1:mHcTkhvUKC8M3MEyqPeeXijssV0k2PwfYaRWOEBtqWo=
