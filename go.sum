@@ -20,5 +20,7 @@ github.com/theGOURL/warning v0.0.0-20230126160637-38289b56a47f h1:jSPu9v2dJIJA2f
 github.com/theGOURL/warning v0.0.0-20230126160637-38289b56a47f/go.mod h1:AqOhJSjnquJ0DS4N8pd5eJdjDE11aYVZylicmmJcJt8=
 github.com/theGOURL/warning v0.0.0-20230130164627-d0929d3785da h1:py7haE7gsl5ypxBVNwFbiLU3AFMDpDDsOhQUcDDd8Xk=
 github.com/theGOURL/warning v0.0.0-20230130164627-d0929d3785da/go.mod h1:AqOhJSjnquJ0DS4N8pd5eJdjDE11aYVZylicmmJcJt8=
+github.com/theGOURL/warning v0.0.0-20230206172742-2a722314def1 h1:W3HTpLZlCNuCVHcXnxIysy3plHu/g1sdnhQ0spYN3fY=
+github.com/theGOURL/warning v0.0.0-20230206172742-2a722314def1/go.mod h1:AqOhJSjnquJ0DS4N8pd5eJdjDE11aYVZylicmmJcJt8=
 github.com/theGOURL/web v0.0.0-20230118231644-27d67cc4bb7d h1:38lfyih2/A0f62poosOsFFs+z3XjZ6GydTg9lVpRgrw=
 github.com/theGOURL/web v0.0.0-20230118231644-27d67cc4bb7d/go.mod h1:mHcTkhvUKC8M3MEyqPeeXijssV0k2PwfYaRWOEBtqWo=
